@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeon-neon" alt="zeon-neon" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://saahild.com/zeon](https://saahild.com/zeon)
+- 👨‍💻 My site [https://saahild.com/zeon](https://saahild.com/zeon)
 
-- 📫 How to reach me **zeon@saahild.com**
+- 📫 Reach me at: **zeon@saahild.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
