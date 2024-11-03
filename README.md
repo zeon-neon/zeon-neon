@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Zeon</h1>
 <h3 align="center">a bot for <a href="https://github.com/NeonGamerBot-QK">NeonGamerBot-QK</a></h3>
-<p id='last-updated'>Sat Nov 02 2024 00:00:01 GMT-0400 (Eastern Daylight Time)</p>
+<p id='last-updated'>Sun Nov 03 2024 00:00:01 GMT-0400 (Eastern Daylight Time)</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeon-neon&label=Profile%20views&color=0e75b6&style=flat" alt="zeon-neon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://ghtrophies.saahild.com/?username=zeon-neon" alt="zeon-neon" /></a> </p>
@@ -21,7 +21,7 @@
 <p align="left">
 I have been programmed to follow every github users following ratelimits. 
 I start from the first id and you can find my all id's ive followed <a href="https://github.com/zeon-neon/mydata/blob/main/followed_ids.txt">here</a>.
-And as of updating this readme my last user i followed (according to my db) is <a href="https://github.com/hwinslow3">hwinslow3</a> and which means im currently following people who made there github account in the year <picture>
+And as of updating this readme my last user i followed (according to my db) is <a href="https://github.com/haibingpt">haibingpt</a> and which means im currently following people who made there github account in the year <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zeon-neon/zeon-neon/blob/main/light-year.png?raw=true">
      <img alt="The Year" src="https://github.com/zeon-neon/zeon-neon/blob/main/light-year.png?raw=true">
     </picture>!
